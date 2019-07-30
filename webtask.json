@@ -1,6 +1,6 @@
 {
   "title": "Manage Users Dashboard",
-  "name": "auth0-delegated-admin",
+  "name": "manage-users",
   "codeUrl": "https://raw.githubusercontent.com/lomboboo/auth0-delegated-administration-extension/master/dist/auth0-delegated-admin.extension.3.7.0.js",
   "version": "3.7.0",
   "author": "auth0",
@@ -11,7 +11,7 @@
   "logoUrl": "https://cdn.auth0.com/extensions/auth0-delegated-admin/assets/logo.svg",
   "initialUrlPath": "/",
   "docsUrl": "https://auth0.com/docs/extensions/delegated-admin",
-  "repository": "https://github.com/auth0-extensions/auth0-delegated-administration-extension",
+  "repository": "https://github.com/lomboboo/auth0-delegated-administration-extension",
   "keywords": [
     "auth0",
     "extension"
