@@ -10,7 +10,7 @@ server/data.*.json
 node_modules
 npm-debug.log
 dist/*
-!dist/auth0-delegated-admin.extension.3.7.0.js
+!dist/manage-users.extension.3.7.0.js
 
 # coverage output
 coverage.lcov
