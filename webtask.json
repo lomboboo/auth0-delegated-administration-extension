@@ -1,6 +1,7 @@
 {
   "title": "Manage Users Dashboard",
   "name": "auth0-delegated-admin",
+  "codeUrl": "https://raw.githubusercontent.com/lomboboo/auth0-delegated-administration-extension/master/dist/auth0-delegated-admin.extension.3.7.0.js",
   "version": "3.7.0",
   "author": "auth0",
   "useHashName": false,
