@@ -137,7 +137,7 @@
     "webpack": "4.29.6"
   },
   "auth0-extension": {
-    "title": "Delegated Administration Dashboard",
+    "title": "Manage Users Dashboard",
     "useHashName": false,
     "type": "application",
     "category": "end_user",
